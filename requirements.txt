@@ -1,0 +1,17 @@
+numpy
+pandas
+fairlearn
+plotly
+nbformat
+ipykernel
+aif360
+causal-learn
+BlackBoxAuditing
+cvxpy
+dice-ml
+lime
+shapkit
+scikit-learn
+seaborn
+matplotlib
+joblib
